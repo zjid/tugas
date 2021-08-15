@@ -1,37 +1,36 @@
-### Welcome to GitHub Pages
+# Kepala besar
+## Kepala sedang
+## Kepala kecil
 
-You can use the [editor on GitHub](https://github.com/januaji/tugas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tautan ke [halaman ini](https://zjid.github.io/tugas/).
+Gambar ![profil](https://avatars.githubusercontent.com/u/10710267?v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Daftar tak berurutan:
+- **ketebalan**
+- _kemiringan__
+- `kode` (tapi ga kelihatan beda karena tema halaman ini kode juga)
 
-### Markdown
+Daftar berurutan:
+1. satu
+2. dua
+3. tiga
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Blok kode:
 ```markdown
-Syntax highlighted code block
+# Kepala besar
+## Kepala sedang
+## Kepala kecil
 
-# Header 1
-## Header 2
-### Header 3
+Tautan ke [halaman ini](https://zjid.github.io/tugas/).
+Gambar ![profil](https://avatars.githubusercontent.com/u/10710267?v=4)
 
-- Bulleted
-- List
+Daftar tak berurutan:
+- **ketebalan**
+- _kemiringan__
+- `kode` (tapi ga kelihatan beda karena tema halaman ini kode juga)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Daftar berurutan:
+1. satu
+2. dua
+3. tiga
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/januaji/tugas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
